@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1688943951 source:c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\proyecto final 2\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	<stdio.h>
+	<windows.h>
+	<cstdlib>
+	"FuncionesPersonalizar.h"
+
+1624932184 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\proyecto final 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688782282 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\proyecto final 2\funciones.h
+	<iostream>
+	<ctime>
+	"rlutil.h"
+
+1688935718 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\proyecto final 2\funcionespersonalizar.h
+
+1689462449 source:c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\proyecto 500 copia\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	<stdio.h>
+	<windows.h>
+	<cstdlib>
+	"FuncionesPersonalizar.h"
+	"Funcionescuadros.h"
+	"Funcionesdados.h"
+	"Funcionesunjugador.h"
+	"Funcionesdosjugadores.h"
+	"Funcionesmaxpuntaje.h"
+
+1624932184 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\proyecto 500 copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1689455862 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\proyecto 500 copia\funcionespersonalizar.h
+
+1689462235 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\proyecto 500 copia\funcionescuadros.h
+
+1689461512 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\proyecto 500 copia\funcionesdados.h
+
+1689462588 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\proyecto 500 copia\funcionesunjugador.h
+
+1689461668 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\proyecto 500 copia\funcionesdosjugadores.h
+
+1689461716 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\proyecto 500 copia\funcionesmaxpuntaje.h
+
+1689531210 source:c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	<stdio.h>
+	<windows.h>
+	<cstdlib>
+	"FuncionesPersonalizar.h"
+	"Funcionescuadros.h"
+	"Funcionesdados.h"
+	"Funcionesunjugador.h"
+	"Funcionesdosjugadores.h"
+	"Funcionesmaxpuntaje.h"
+
+1624932184 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1689455862 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500\funcionespersonalizar.h
+
+1689462235 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500\funcionescuadros.h
+
+1689532285 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500\funcionesdados.h
+
+1689462588 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500\funcionesunjugador.h
+
+1689461668 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500\funcionesdosjugadores.h
+
+1689461716 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500\funcionesmaxpuntaje.h
+
+1689599270 source:c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500 2\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	<stdio.h>
+	<windows.h>
+	<cstdlib>
+	"FuncionesPersonalizar.h"
+	"Funcionescuadros.h"
+	"Funcionesdados.h"
+	"Funcionesunjugador.h"
+	"Funcionesdosjugadores.h"
+	"Funcionesmaxpuntaje.h"
+
+1624932184 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1689455862 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500 2\funcionespersonalizar.h
+
+1689462235 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500 2\funcionescuadros.h
+
+1689599094 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500 2\funcionesdados.h
+
+1689599219 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500 2\funcionesunjugador.h
+
+1689599198 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500 2\funcionesdosjugadores.h
+
+1689461716 c:\users\gustavo\onedrive - frgp.utn.edu.ar\documentos\universidad\materias\laboratorio de computación i\proyecto de software\juego de dados 500 2\funcionesmaxpuntaje.h
+
